@@ -15,3 +15,4 @@ LiboHuang's HomePage
 2. http://fanlyu.com/
 
 网页流量人数：https://eternalwang.github.io/
+github star数同步：https://yang7879.github.io/
