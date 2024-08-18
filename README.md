@@ -1,4 +1,4 @@
-[Miscellaneous](miscellaneous.md)
+[Miscellaneous](./miscellaneous.md)
 
 域名:
 1. https://pengwu.site/
