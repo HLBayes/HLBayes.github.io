@@ -1,6 +1,4 @@
-# HLBayes.github.io
-
-LiboHuang's HomePage
+[Miscellaneous](miscellaneous.md)
 
 域名:
 1. https://pengwu.site/
