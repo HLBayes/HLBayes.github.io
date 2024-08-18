@@ -1,3 +1,0 @@
-- [How we write rebuttals](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1/)
-- [Writing a good introduction](http://www-net.cs.umass.edu/kurose/writing/intro-style.html)
-- [Deep Learning vs Machine Learning: What’s the Difference](https://www.computer.org/publications/tech-news/trends/deep-learning-vs-machine-learning-whats-the-difference?source=cssocial)
